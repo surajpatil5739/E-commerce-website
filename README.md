@@ -7,6 +7,9 @@ them. We have stored the data in MongoDB atlas cloud database.
 - For new users, we created a registration form. For users, their e-mail is kept as their username to login. There is also facility
 for users to add any item which they want to cart.
 
+To run this programme you have to install ReactJS, JavaScript, MongoDB, NodeJS. Then open the project with vscode or any other application. Then open the terminal there and run command npm i. Then the project will be hosted on your browser locally.
+
+
 Following are some of the glimpses of our project
 
 ## Registration Page
